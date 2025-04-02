@@ -12,10 +12,11 @@ A Python-based web scraper for extracting details from an Amazon India Smart TV 
 
 ## Setup
 
-1. Clone the repository.
-2. Install requirements:
-3. Run the scraper:
-
+1. Clone the repository :: `git clone https://github.com/Virtuoso633/amazon-smart-tv-scraper.git`
+2. change directory to :: `cd amazon-smart-tv-scraper`
+3. Install requirements::  `pip install -r requirements.txt`
+4. Run the scraper:: `python -m scraper.scraper`
+5. Open the scraped_product.md file in any online markdown website viewer
 
 
 Happy scraping!
