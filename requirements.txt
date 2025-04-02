@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+transformers
+torch
+python-dotenv
+selenium
+webdriver-manager
